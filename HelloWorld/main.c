@@ -12,5 +12,7 @@ void main(int args,char** argv)
     printf("cccccc");
     printf("ddddd");
     printf("feture1 commit.\n");
+    printf("Add comment at home.\n");
+    printf("Add comment at home dev2.\n");
     return;
 }
