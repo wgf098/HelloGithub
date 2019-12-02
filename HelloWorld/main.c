@@ -11,5 +11,6 @@ void main(int args,char** argv)
     printf("bbbb");
     printf("cccccc");
     printf("ddddd");
+    printf("feture1 commit.\n");
     return;
 }
